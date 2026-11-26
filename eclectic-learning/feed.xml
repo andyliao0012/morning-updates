@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclectic Learning</title>
+    <link>https://andyliao0012.github.io/morning-updates/</link>
+    <atom:link href="https://andyliao0012.github.io/morning-updates/eclectic-learning/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>A 30-minute daily dose of 雜學 — learning broadly across unrelated fields. Hosts Ryan and Heart explore three fresh ideas from design, psychology, science, history, culture and more, each with a line to remember and a dot to connect. New every weekday.</description>
+    <itunes:summary>A 30-minute daily dose of 雜學 — learning broadly across unrelated fields. Hosts Ryan and Heart explore three fresh ideas from design, psychology, science, history, culture and more, each with a line to remember and a dot to connect. New every weekday.</itunes:summary>
+    <itunes:author>Andy Liao</itunes:author>
+    <itunes:owner><itunes:name>Andy Liao</itunes:name></itunes:owner>
+    <itunes:image href="https://andyliao0012.github.io/morning-updates/eclectic-learning/cover.jpg"/>
+    <image><url>https://andyliao0012.github.io/morning-updates/eclectic-learning/cover.jpg</url><title>Eclectic Learning</title><link>https://andyliao0012.github.io/morning-updates/</link></image>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Welcome to Eclectic Learning</title>
+      <description>Meet Ryan and Heart, and the idea behind 雜學: learning broadly across unrelated fields.</description>
+      <itunes:summary>Meet Ryan and Heart, and the idea behind 雜學: learning broadly across unrelated fields.</itunes:summary>
+      <link>https://andyliao0012.github.io/morning-updates/</link>
+      <guid isPermaLink="false">eclectic-learning-2026-11-16-welcome</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://andyliao0012.github.io/morning-updates/eclectic-learning/episodes/2026-11-16-welcome.mp3" length="254877" type="audio/mpeg"/>
+      <itunes:duration>00:00:50</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
